@@ -1,0 +1,8 @@
+{
+  "name": "QR Kod ve Zararlı Bağlantı Güvenlik Analiz Sistemi",
+  "description": "QR kodları, kısaltılmış linkleri ve şüpheli web bağlantılarını gerçek zamanlı çözen; oltalama (phishing), quishing, zararlı yönlendirmeler ve homograf saldırılarına karşı derinlemesine güvenlik analizi yapan siber güvenlik platformu.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
